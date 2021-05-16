@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"fr.unicaen.l2.info.prog.puzzle"},{"l":"fr.unicaen.l2.info.prog.puzzle.model"},{"l":"fr.unicaen.l2.info.prog.puzzle.view_controller"}]
